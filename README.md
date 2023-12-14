@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20GitHub&color=gredient&fontColor=ffffff&font-size=10px)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Welcome👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Yeyiwon%20GitHub&descAligng=10.&descAlignY=44)
 
 
 <div align=center>
     <h1>YE YI WON 😎</h1> 
-Transparent
 안녕하세요 🙌🙌 
 <br>
 관광학을 전공한 웹 / UI 개발에 관심이 많은 예이원이라고 합니다. <br>
