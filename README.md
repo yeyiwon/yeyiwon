@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20GitHub&fontColor=d6ace6&font-size=10px)
+![header](https://capsule-render.vercel.app/api?text=Welcome%20My%20GitHub&color=gredient&fontColor=ffffff&font-size=10px)
 
 
 <div align=center>
